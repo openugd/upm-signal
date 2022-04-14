@@ -1,0 +1,14 @@
+{
+    "name": "com.openugd.signal",
+    "references": [
+        "com.openugd.lifetime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

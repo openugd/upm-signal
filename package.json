@@ -1,0 +1,17 @@
+{
+  "name": "com.openugd.signal",
+  "displayName": "Signal",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "author": "https://github.com/openugd",
+  "description": "require .NET 4x\n",
+  "keywords": [
+    "signal",
+    "signals",
+    "lifetime"
+  ],
+  "dependencies": {
+    "com.openugd.lifetime":"1.0.0"
+  },
+  "category": "Unity"
+}
